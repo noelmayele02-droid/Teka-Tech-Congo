@@ -1,0 +1,8 @@
+[33mcommit 738a4e53d8c6e36097942cd4534815af3b64194b[m[33m ([m[1;31mancien-teka/main[m[33m, [m[1;31mancien-teka/HEAD[m[33m)[m
+Author: INFOTELCOM <contact.infotelcom@gmail.com>
+Date:   Wed Sep 9 21:34:02 2026 +0200
+
+    feat: add resilient local media and V2 styling hooks
+
+ script.js | 542 [32m+++++++++++[m[31m---------------------------------------------------[m
+ 1 file changed, 89 insertions(+), 453 deletions(-)

@@ -1,2 +1,4 @@
 downloads/*.exe
 downloads/*.AppImage
+# Local Netlify folder
+.netlify
